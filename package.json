@@ -36,5 +36,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Calculator\r ---\r <img src=\"Logotype primary.png\" width=\"60%\" height=\"60%\" />",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahfarmer/calculator.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ahfarmer/calculator/issues"
   }
 }
